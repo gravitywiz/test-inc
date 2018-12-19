@@ -9,3 +9,7 @@ This is a test to see how merging works.
 Let's see how this looks when I merge it back into master unsquashed. 
 
 Before I do that though, let's make another commit locally.
+
+## This was added in branch Three.
+
+Now, we will squash and merge.
