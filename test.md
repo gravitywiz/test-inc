@@ -13,3 +13,5 @@ Before I do that though, let's make another commit locally.
 ## This was added in branch Three.
 
 Now, we will squash and merge.
+
+Before we do that, let us make another commit locally. For science!
